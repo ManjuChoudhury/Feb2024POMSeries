@@ -5,5 +5,6 @@ class Cart
         String str = "durga";
         String s = "Hello World!!"
         System.out.println(str);
+         System.out.println(s);
     }
 }
